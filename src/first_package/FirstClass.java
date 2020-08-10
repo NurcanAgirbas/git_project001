@@ -6,6 +6,7 @@ public class FirstClass {
 		
 		System.out.println("Our firts commit from the local repo");
         System.out.println("Our second commit from local repository");
+        
 	}
 
 }
